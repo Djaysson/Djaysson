@@ -35,5 +35,6 @@
 ![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djayson&count_private=true&show_icons=true&theme=radical)
 
 
+![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=radical)
 
 
