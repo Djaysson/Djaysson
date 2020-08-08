@@ -1,14 +1,16 @@
-**Hi guys**👋
-<h3>My name is Djayson Rodrigues </h3>
+<h1 align="center">Hi guys 👋</h1>
+
+<h3 align="center">My name is Djayson Rodrigues </h3>
+<h3 align="center">Front-end Developer,Coffee lover, Javascript and SPA fan</h3>
+
+<img align="center" src="./img/programe.gif" >
+<hr/>
 
 
 ### Connect with me:
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](www.linkedin.com/in/djaysonrodrigues)
+[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milenacarecho/)
 
-<br />
-![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=radical)
-<br />
-
+<hr/>
 
 ### Languages and Tools:
 
