@@ -5,10 +5,11 @@
 
 ![Hello](https://github.com/Djaysson/Djaysson/blob/master/img/programe.gif)
 
+
 <br/>
 <br/>
 
-<img align="left" alt="Djayson Rodrigues Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Djaysson&show_icons=true&hide_border=true" />
+<img align="center" alt="Djayson Rodrigues Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Djaysson&show_icons=true&hide_border=true" />
 
 <br />
 <br />
