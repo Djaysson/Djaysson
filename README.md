@@ -3,7 +3,7 @@
 <h3 align="center">My name is Djayson Rodrigues </h3>
 <h3 align="center">Front-end Developer,Coffee lover, Javascript and SPA fan</h3>
 
-![Hello](https://github.com/Djaysson/Djaysson/blob/master/img/programe.gif)
+//![Hello](https://github.com/Djaysson/Djaysson/blob/master/img/programe.gif)
 
 
 <br/>
