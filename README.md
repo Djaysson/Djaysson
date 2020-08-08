@@ -6,6 +6,9 @@
 [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](www.linkedin.com/in/djaysonrodrigues)
 
 <br />
+![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=radical)
+<br />
+
 
 ### Languages and Tools:
 
