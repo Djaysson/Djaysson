@@ -15,10 +15,10 @@
 
 
 ### Connect with me:
+
 [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milenacarecho/)
 
 <br/>
-
 
 ### Languages and Tools:
 
@@ -42,7 +42,4 @@
 <img style="padding-right:8px" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-
 
