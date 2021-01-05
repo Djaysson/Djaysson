@@ -9,10 +9,8 @@
 <br/>
 
  <p align="center" >
- 
 ![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djaysson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br />
 <br />
