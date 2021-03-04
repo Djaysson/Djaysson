@@ -1,54 +1,50 @@
-<h1 align="center">Welcome to my GitHub profile 👋</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Djaysson" alt="Djaysson" /></p>
 
-<h3 align="center">My name is Djayson Rodrigues </h3>
-<h3 align="center">Front-end Developer,Coffee lover, Javascript and SPA fan</h3>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Djayson Rodrigues</h1>
 
-
-
-
+<p  align ="justify">Front-end developer, coffee lover, fan of Javascript and SPA, curious about performance, specialist in Reactjs. Currently in love with the entire javascript ecosystem.</p>
 <br/>
 
  <p align="center" >
- 
+<img alt="background" src="./img/background.png" />
+</p>
+<br/>
 
- 
-![Djayson Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=radical&count_private=true)
+## 🚀💻 Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djaysson&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djaysson&hide=TeX&layout=compact)
 
 
-
-
-
-<br />
 <br />
 
 ### Connect with me:
-
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/djaysonrodrigues/)
-
-<br/>
-<br/>
-
-### Languages and Tools:
-
-<img style="padding-right:8px" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img style="padding-right:8px"  align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img style="padding-right:8px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img style="padding-right:8px" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img style="padding-right:8px" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+[![Linkedin Badge](https://img.shields.io/badge/-Djayson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/djaysonrodrigues)](https://www.linkedin.com/in/djaysonrodrigues)
+[![Gmail Badge](https://img.shields.io/badge/-djayson.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djayson.dev@gmail.com)](mailto:djayson.dev@gmail.com)
 
 
-<img style="padding-right:8px" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img style="padding-right:8px" align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img style="padding-right:8px" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-</p>
+
+
+
+
+
+
