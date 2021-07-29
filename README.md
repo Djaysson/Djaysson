@@ -9,11 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djaysson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- ##
 
+ 
 ## 💻 Technologies & Tools
-<div style="display: inline_block">
-
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)-
@@ -24,18 +23,20 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
 
-##
+ 
+ 
+  ![Snake animation](https://github.com/Djaysson/Djaysson/blob/output/github-contribution-grid-snake.svg)
+ 
 
-### Connect with me:
+## Connect with me:
 <div> 
   <a href="https://instagram.com/djayson_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-
   <a href="https://api.whatsapp.com/send?phone=5585991774335" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-
   <a href = "mailto:djayson.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-
   <a href="https://www.linkedin.com/in/djaysonrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Djaysson/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
