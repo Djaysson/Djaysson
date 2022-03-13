@@ -8,9 +8,8 @@
 
 ---
 
-💻 I'm currently working on Front End<br>
+💻 I'm currently working with Front-End development<br>
 📚 I'm currently learning more about TDD, Patterns and SOLID<br>
-💬 Ask me about anything related to Front-End Development<br>
 👨🏻‍🎓 Graduated in Systems Analysis and Development<br>
 🥷 Anime fan<br>
 
