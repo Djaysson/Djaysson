@@ -11,7 +11,6 @@
 💻 I'm currently working with Front-End development<br>
 📚 I'm currently learning more about TDD, Patterns and SOLID<br>
 👨🏻‍🎓 Graduated in Systems Analysis and Development<br>
-🥷 Anime fan<br>
 
 **Languages and Tools:**
 
