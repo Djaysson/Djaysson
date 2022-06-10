@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Djayson Rodrigues
+## Hello 🧑‍💻 , I'm Djayson Rodrigues
 
 💻 Front-end Developer - <img src="./.github/fort.svg" width="14"/> Fortaleza - 🇧🇷 Brasil
 
