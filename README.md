@@ -1,27 +1,35 @@
-## Hello 🧑‍💻 , I'm Djayson Rodrigues
+<img src="./.github/Banner.png" style="border-radius:10px"/>
 
-💻 Front-end Developer - <img src="./.github/fort.svg" width="14"/> Fortaleza - 🇧🇷 Brasil
+## Hi 👋 My name is Djayson Rodrigues
 
-[![Linkedin Badge](https://img.shields.io/badge/-djaysonrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djaysonrodrigues)](https://www.linkedin.com/in/djaysonrodrigues)
-[![Gmail Badge](https://img.shields.io/badge/-djayson.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djayson.dev@gmail.com)](mailto:djayson.dev@gmail.com)
-[![Instagram Dino Coder Badge](https://img.shields.io/badge/-djaysonrodrigues-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/djaysonrodrigues/?hl=pt-br)](https://instagram.com/djaysonrodrigues/?hl=pt-br)
+Front-end developer passionate about simple solutions to solve difficult problems.
+
+<p align="left"> <a href="https://www.github.com/Djaysson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
 
-💻 I'm currently working with Front-End development<br>
+🧑‍💻 I'm currently working with Front-End development<br>
 📚 I'm currently learning more about TDD, Patterns and SOLID<br>
 👨🏻‍🎓 Graduated in Systems Analysis and Development<br>
+🖥️ See my portfolio at [djaysonrodrigues.tk](http://djaysonrodrigues.tk)<br>
+✉️ You can contact me at [djayson.dev@gmail.com](mailto:djayson.dev@gmail.com)<br>
 
-**Languages and Tools:**
+**My Skills And Power Up's**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-
-![SASS](https://img.shields.io/badge/SASS-CF659B?style=for-the-badge&logo=SASS&logoColor=white)-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-351841?style=for-the-badge&logo=bootstrap&logoColor=white)-
-![Styled-components](https://img.shields.io/badge/styled--components-3B3B3B?style=for-the-badge&logo=styled-components&logoColor=white)-
-![Redux](https://img.shields.io/badge/Redux-7652BC?style=for-the-badge&logo=redux&logoColor=white)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/logo.png" width="36" height="36" alt="styled-components" /></a>
+</p>
 
 <!-- ![Snake animation](https://github.com/Djaysson/Djaysson/blob/output/github-contribution-grid-snake.svg) -->
 
