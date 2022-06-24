@@ -1,4 +1,4 @@
-<img src="./.github/Banner.png" style="border-radius:10px"/>
+<img src="./.github/banner.jpeg" style="border-radius:10px"/>
 
 ## Hi 👋 My name is Djayson Rodrigues
 
