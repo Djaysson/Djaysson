@@ -1,10 +1,12 @@
-<img src="./.github/banner.jpeg" style="border-radius:10px"/>
+
 
 ## Hi 👋 My name is Djayson Rodrigues
 
 Front-end developer passionate about simple solutions to solve difficult problems.
 
-<p align="left"> <a href="https://www.github.com/Djaysson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## Socials
+
+<p align="left"> <a href="http://www.instagram.com/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/djaysonrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
 
